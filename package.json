@@ -1,0 +1,7 @@
+{
+  "name": "ecommerce-ddd",
+  "private": true,
+  "scripts": {
+    "commit:watch": "bun scripts/commit-watch.ts"
+  }
+}
